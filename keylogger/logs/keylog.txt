@@ -1,0 +1,49 @@
+
+[2025-06-10 23:28:00.608981] :: C:\Windows\system32\cmd.exe - python  keylogger.py
+[Key.alt_l]
+[Key.tab]
+
+[2025-06-10 23:28:07.705979] :: Ethical Keylogger Development Guide - Google Chrome
+[Key.alt_l]
+[Key.tab]
+
+[2025-06-10 23:28:08.325066] :: C:\Windows\system32\cmd.exe - python  keylogger.py
+[Key.alt_l]
+[Key.tab]
+
+[2025-06-10 23:28:08.593281] :: Task Switching
+[Key.tab]
+[Key.tab]
+
+[2025-06-10 23:28:15.421463] :: (57) WhatsApp - Google Chrome
+[Key.shift]
+H
+e
+l
+l
+o
+[Key.enter]
+[Key.esc]
+[Key.alt_l]
+[Key.tab]
+
+[2025-06-10 23:28:21.838220] :: C:\Windows\system32\cmd.exe - python  keylogger.py
+c
+
+[2025-06-10 23:28:25.322446] :: Select C:\Windows\system32\cmd.exe - python  keylogger.py
+c
+
+[2025-06-10 23:28:26.761999] :: C:\Windows\system32\cmd.exe - python  keylogger.py
+[Key.ctrl_r]
+
+[Key.ctrl_r]
+
+
+
+
+
+
+
+[Key.ctrl_r]
+[Key.ctrl_r]
+x
